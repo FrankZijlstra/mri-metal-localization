@@ -3,8 +3,8 @@
 This MATLAB toolbox contains code to perform localization of metal objects in MRI using fast simulation and template matching. For given scan parameters and a model of the metal object, a library of templates is simulated for many different orientations of the object. Then, to find this type of object in an MR image, the library is loaded and matched using Phase-Only Cross Correlation.
 
 The base methods and brachytherapy seed application are described in:
-- Zijlstra, F., Bouwman, J. G., Braškut?, I. , Viergever, M. A. and Seevinck, P. R. (2017), Fast Fourier?based simulation of off?resonance artifacts in steady?state gradient echo MRI applied to metal object localization. Magn. Reson. Med, 78: 2035-2041. doi:10.1002/mrm.26556
-- Zijlstra, F., Moerland, M. A., Voort van Zyp, J. R., Noteboom, J. L., Viergever, M. A. and Seevinck, P. R. (2017), Challenges in MR?only seed localization for postimplant dosimetry in permanent prostate brachytherapy. Med. Phys., 44: 5051-5060. doi:10.1002/mp.12505
+- Zijlstra, F., Bouwman, J. G., Braškute, I. , Viergever, M. A. and Seevinck, P. R. (2017), Fast Fourier-based simulation of off-resonance artifacts in steady?state gradient echo MRI applied to metal object localization. Magn. Reson. Med, 78: 2035-2041. doi:10.1002/mrm.26556
+- Zijlstra, F., Moerland, M. A., Voort van Zyp, J. R., Noteboom, J. L., Viergever, M. A. and Seevinck, P. R. (2017), Challenges in MR-only seed localization for postimplant dosimetry in permanent prostate brachytherapy. Med. Phys., 44: 5051-5060. doi:10.1002/mp.12505
 
 The gold fiducial application is described in:
 - Maspero M., van den Berg, C.A.T., Zijlstra, F., Sikkes, G.G., de Boer H.C.J., Meijer G.J., Kerkmeijer L.G.W., Viergever M.A., Lagendijk J.J.W. and Seevinck, P.R. (2017), Evaluation of an automatic MR-based gold fiducial marker localisation method for MR-only prostate radiotherapy, Phys. Med. Biol., 62. doi:10.1088/1361-6560/aa875f 
